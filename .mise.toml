@@ -1,4 +1,4 @@
 [settings]
-python_compile = 1
+python_compile = true
 [tools]
 python = "3.11"
