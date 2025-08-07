@@ -1,0 +1,2 @@
+[env]
+  MISE_SETTINGS__PYTHON_COMPILE = "1"
